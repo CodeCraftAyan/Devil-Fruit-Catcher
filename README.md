@@ -8,8 +8,7 @@
 
 # 🍇 Devil-Fruit-Catcher
 
-A fun little **arcade-style game built with Pygame** where you race against the clock to catch as many Devil Fruits as possible!  
-This is my **first ever Pygame project**, concept inspired by *One Piece* by **Eiichiro Oda**.
+A fun little **arcade-style game built with Pygame** where you race against the clock to catch as many Devil Fruits as possible! This is my **first ever Pygame project**, concept inspired by *One Piece* by **Eiichiro Oda**.
 
 ###
 
